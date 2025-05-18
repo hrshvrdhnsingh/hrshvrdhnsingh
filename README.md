@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshvrdhnsingh&label=visitors&color=0e75b6&style=flat" alt="hrshvrdhnsingh" /> </p> 
 
 <p align="center">
-  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5730979.png" width="415" height="70" alt="Hello there" /></a>
+  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5730979.png" width="420" height="70" alt="Hello there" /></a>
 </p>
 
 <h3 align="center">Building something, one commit at a time.</h3>
